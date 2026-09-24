@@ -1,0 +1,9 @@
+.screencast-runs/
+*.mp4
+*.gif
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.mkv
+.DS_Store
